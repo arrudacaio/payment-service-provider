@@ -1,2 +1,2 @@
 # payment-service-provider
-Payment Service Provider Simplified
+Implementation of a payment service provider(PSP) simplified.
