@@ -1,6 +1,6 @@
 
 
-const process = (req, res) => {}
+const processTransaction = (req, res) => {}
 
 
-export default process
+export default processTransaction
