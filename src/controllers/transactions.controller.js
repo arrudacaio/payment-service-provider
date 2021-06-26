@@ -19,7 +19,16 @@ const createsTransaction = (_, res)  => {
     }
 }
 
-const deleteTransactions = (req, res) => {
+
+const getTransaction = (req ,res)  => {
+    try {
+        console.log("Get a transaction")
+    } catch (error) {
+        return console.log("Get a transaction")
+    }
+}
+
+const deleteTransaction = (req, res) => {
     try {
         return console.log("Deleted transaction")
     } catch (error) {
