@@ -40,5 +40,8 @@ const deleteTransaction = (req, res) => {
 
 
 module.exports = {
-    testConnection
+    testConnection,
+    createsTransaction,
+    getTransaction,
+    deleteTransaction
 }
